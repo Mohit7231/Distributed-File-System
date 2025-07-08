@@ -1,4 +1,3 @@
-Project Description
 This project is a Distributed File System developed in C using UNIX socket programming. It simulates a real-world system where files are routed and stored based on their type, all through a centralized interface. Below are the key highlights:
 
 📁 Modular Server Architecture
